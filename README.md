@@ -3,7 +3,8 @@
 After many years of hand waving I'm returning to code so I can directly translate ideas into solutions
 
 This sentence tests the colour model `rgb(9, 9, 9)` on GitHUB  
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
+The background color is `#ffffff` for light mode and `#000000` for dark mode.  
+#FF0000 `This is red`
 
 
 
