@@ -23,14 +23,20 @@ TEXT 2
 
 # Links to the example headings above
 \
-\
-\
-\
-\
-\
-\
-\
-\
+- George Washington
+* John Adams
++ Thomas Jefferson
+
+1. First list item
+   - First nested list item
+     - Second nested list item
+    
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+
 \
 \
 \
