@@ -19,8 +19,7 @@ This is a very minor modification
 
 ## This heading is not unique in the file
 
-TEXT 2
-
+This is a new modification to the branch
 # Links to the example headings above
 \
 - George Washington
