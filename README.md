@@ -15,7 +15,7 @@ A heading containing characters not allowed in fragments, UTF-8 characters, two 
 
 ## This heading is not unique in the file
 
-TEXT 1
+This is a very minor modification
 
 ## This heading is not unique in the file
 
