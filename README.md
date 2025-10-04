@@ -1,4 +1,11 @@
-## Hi there 👋
+# Dr Daniel Zmood - GitHub README
+
+After many years of hand waving I'm returning to code so I can directly translate ideas into solutions
+
+This sentence tests the colour model `rgb(9, 9, 9)` on GitHUB  
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
+
+
 
 <!--
 **danielzmood/danielzmood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
